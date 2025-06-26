@@ -32,11 +32,12 @@
     height: 80px;
     width: 80px;
     border-radius: 50%;
+    font-size:29px;
 }
 #zero {
     height: 80px;
     width: 185px;
-    border-radius: 23%;
+    border-radius: 29%;
 }
 
 .answer {
