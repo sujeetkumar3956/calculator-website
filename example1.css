@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+    width: 90vw;
+    padding: none;
+
+}
+
+.upper-part {
+    border: 2px solid red;
+}
+
+
+/* 
+.row button {
+    margin: 30px 20px;
+} */
+.lower-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 35px;
+}
+
+.row button {
+    margin-top: 45px;
+}
+
+.answer {
+    font-size: 48px;
+}
